@@ -1,6 +1,6 @@
 ---
 title: This is my new post
-subtitle: lorem-ipsum
+subtitle: This is the subtitle
 date: '2021-08-31'
 categories: []
 tags: []
