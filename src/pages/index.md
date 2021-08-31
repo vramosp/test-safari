@@ -184,7 +184,7 @@ sections:
     blog_feed_cols: two
     enable_cards: true
     show_recent: true
-    recent_count: 2
+    recent_count: 3
     show_image: true
     show_date: true
     show_categories: true
