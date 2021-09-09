@@ -328,7 +328,7 @@ models:
         label: Title
         required: true
         description: The title of the tag
-  '':
+  page:
     type: page
     label: Page
     layout: page
