@@ -1,5 +1,5 @@
 ---
-title: About your things
+title: About
 seo:
   title: About us
   description: This is the about us page
